@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://navisolve.com/">
+
 Renault GPS Navigation Update: Keeping Your Journey on Track
 ===========================================
 .. toctree::
